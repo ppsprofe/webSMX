@@ -1,0 +1,10 @@
+body {
+	background-color: black;
+	color: white;
+	width:bold;
+	background-image:url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/3947459/sunset.jpg');
+	/*background-image:url('../img/pexels-pixabay-159304.jpg'); */
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
